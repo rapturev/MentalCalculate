@@ -17,7 +17,7 @@ public class Main {
         //choosing easy, medium or hard level of difficulty
         DifficultySet.difficultyLevelSet();
 
-        //generating first an second numbers
+        //generating first and second numbers
         NumberGenerator.generateNumbers();
         //generating plus, minus, multiply or divide operator
         NumberGenerator.generateMathOperator();
