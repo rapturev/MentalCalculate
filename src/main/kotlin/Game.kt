@@ -52,7 +52,7 @@ class ItemBuilder {
         }
     }
 
-    // This function generate numbers of the math exercise by randomizer
+    // This function generates numbers of the math exercise by randomizer
     fun build(): Unit {
         when (difficultyMode) {
             DifficultyMode.EASY -> {
